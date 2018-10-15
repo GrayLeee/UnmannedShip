@@ -1,0 +1,9 @@
+# database file ignore
+*.db
+
+# debug file ignore
+.Debug/
+
+# x64 debug file ignore
+x64/Debug
+
